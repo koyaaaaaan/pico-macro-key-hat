@@ -10,8 +10,8 @@ Waveshare製のPico LCD 1.3 inch を利用したマクロキーボードです�
 # 実装
 ## 準備するもの
 * Rasberry pi pico
-* Pico LCD 1.3 inch
-  マニュアル: https://www.waveshare.com/wiki/Pico-LCD-1.3
+* Pico LCD 1.3 inch  
+  マニュアル: https://www.waveshare.com/wiki/Pico-LCD-1.3  
   スイッチサイエンスのページ　https://www.switch-science.com/catalog/7327/
 * 3D Printer (任意)
 
