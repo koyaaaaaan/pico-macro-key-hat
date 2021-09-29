@@ -1,5 +1,5 @@
-日本語話者のかたには [README.jp.md](/README.jp.md) を用意してあります。  
-If you are Japanese speaker, we have [README.jp.md](/README.jp.md) for you.
+日本語話者のかたには [README.jp.md](/README.ja.md) を用意してあります。  
+If you are Japanese speaker, we have [README.ja.md](/README.ja.md) for you.
 
 # Pico Macro Key Hat
 Macro key board with Pico LCD 1.3 inch Hat by Waveshare.
