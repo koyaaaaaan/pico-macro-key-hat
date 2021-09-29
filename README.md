@@ -48,4 +48,14 @@ Print the case with 3D Printer.
 5. Macro Pattaern is shown on display. You can change the set wich Joystick. Push button to send Macro to PC. 
 
 ## Configuration
--- under going -- 
+Plese edit "config.py" in Raspberry Pi Pico root directory.
+
+|  Setting Name  |  Exp  |  Value  |
+| ---- | ---- | ---- |
+|  uselock  |  Use Lock Screen when waking up and locking  |  True or False  |
+|  lockpin  |  Lock pin no. as Array  |  A or B or X or Y (Upper letter)  |
+| layoutType  |  Designating keyboard layout  |  "en" or "jp"  |
+| keymap  |  Macro setting  |  (see below)  |
+| keymap > data |  Macro setting for each button. It should contain 4 item in Array  |  (see below)  |
+| keymap > data > label |  Label for display in LCD  |  1byte Numeric / Alphabet / Simbol  |
+| keymap > data > value |  Command when button is pressed down  |  1byte Numeric / Alphabet / Simbol / Tab  |
