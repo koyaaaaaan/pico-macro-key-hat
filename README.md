@@ -12,7 +12,7 @@ Macro key board with Pico LCD 1.3 inch Hat by Waveshare.
 ## Prepare
 * Rasberry pi pico
 * Pico LCD 1.3 inch
- > https://www.waveshare.com/wiki/Pico-LCD-1.3
+  manual: https://www.waveshare.com/wiki/Pico-LCD-1.3
 * 3D Printer (Optional)
 
 ## Set up Raspberry pi pico 
@@ -28,8 +28,24 @@ If you would install CircuitPython ver 6.x under, you need to replace all mpy fi
 Wareshare Pico LCD 1.3 inch is designed for Rasberry pi pico.  
 You just need to solder the pin header on pi pico to place on LCD.
 
+## Case Printing
+Print the case with 3D Printer.
+(Please mind that CAD data is ajusded for my Ender3 Pro. There are some not accurate things.)
+  
+#### Slice Data (for 3D Printing)
+- cad/CE3PRO_top-cover-Body.gcode
+- cad/CE3PRO_bottom-box-Body.gcode
+
+#### Free CAD Data (If you wanna modify.)
+- cad/top-cover.FCStd
+- cad/bottom-box.FCStd
+
 ## Testing
--- under going --
+1. Connect Pico Macro Key Hat to PC with USB cable.
+2. You can see the display waking up with "Welcome"
+3. Lock Screen (Default pin: A > B > X > Y > Joystick Center Push)
+4. Unlock message is shown.
+5. Macro Pattaern is shown on display. You can change the set wich Joystick. Push button to send Macro to PC. 
 
 ## Configuration
 -- under going -- 
