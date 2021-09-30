@@ -188,7 +188,7 @@ def lockLoop():
         else:
             pass
 
-        time.sleep(0.05)  
+        time.sleep(LOOP_WAIT)  
 
 
 def passText():
