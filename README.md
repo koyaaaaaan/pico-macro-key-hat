@@ -2,7 +2,7 @@
 If you are Japanese speaker, we have [README.ja.md](/README.ja.md) for you.
 
 # Pico Macro Key Hat
-Macro key board with Pico LCD 1.3 inch Hat by Waveshare.
+Macro key board with Pico LCD 1.3 inch Hat by Waveshare.  
 *Features*
 - Register 5 (joystick) x 4 macro
 - Pin Lock
@@ -32,8 +32,8 @@ Wareshare Pico LCD 1.3 inch is designed for Rasberry pi pico.
 You just need to solder the pin header on pi pico to place on LCD.
 
 ## Case Printing
-Print the case with 3D Printer.
-(Please mind that CAD data is ajusded for my Ender3 Pro. There are some not accurate things.)
+Print the case with 3D Printer.  
+(Please mind that CAD data is ajusted for my Ender3 Pro. There are some not accurate things.)
   
 #### Slice Data (for 3D Printing)
 - cad/CE3PRO_top-cover-Body.gcode
