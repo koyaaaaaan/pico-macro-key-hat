@@ -5,7 +5,7 @@ Waveshare製のPico LCD 1.3 inch を利用したマクロキーボードです�
 - パスワードロック
 - 日本語、英語キーボードに対応
 
-<img src="./sc_welcome.jpg" width="320" />
+<img src="./readme/sc_welcome.jpg" width="320" />
 
 # 実装
 ## 準備するもの
@@ -19,7 +19,7 @@ Waveshare製のPico LCD 1.3 inch を利用したマクロキーボードです�
 1. Circuit Python のインストール (7.x)  
 2. srcフォルダ以下のソースをコピーします Raspberry Pi Pico  
 [src](src)   
-<img src="./sc_rootdir.png" width="320" />
+<img src="./readme/sc_rootdir.png" width="320" />
 
 ```
 もし、CircuitPython6.x以下を利用する場合は、adafruit bundleの6.x以下から libフォルダ内のmpyファイルを置き換えてください。  
@@ -46,13 +46,13 @@ BOOTSELボタンに穴があいているので、プログラムのインスト�
 ## テスト
 1. 作ったものとPCをUSBケーブルで接続
 2. "Welcome"メッセージが表示されます
-<img src="./sc_welcome.jpg" width="240" />
+<img src="./readme/sc_welcome.jpg" width="240" />
 3. ロックスクリーンが表示されます（デフォルトは　A > B > X > Y > ジョイスティックプッシュ）
-<img src="./sc_lock.jpg" width="240" />
+<img src="./readme/sc_lock.jpg" width="240" />
 4. アンロックメッセージが表示されます。
-<img src="./sc_unlock.jpg" width="240" />
+<img src="./readme/sc_unlock.jpg" width="240" />
 5. メイン画面が表示されます。ジョイスティックでパターンを選択、ボタンでマクロをPCに送信します。
-<img src="./sc_macromain.jpg" width="240" />
+<img src="./readme/sc_macromain.jpg" width="240" />
 
 ## 設定
 Raspberry Pi Picoにコピーした config.py を編集して保存してください。

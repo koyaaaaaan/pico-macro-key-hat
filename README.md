@@ -8,7 +8,7 @@ Macro key board with Pico LCD 1.3 inch Hat by Waveshare.
 - Pin Lock
 - Japanese or English Keyboard layout
 
-<img src="./sc_welcome.jpg" width="320" />
+<img src="./readme/sc_welcome.jpg" width="320" />
 
 # Implemantation
 ## Prepare
@@ -21,7 +21,7 @@ Macro key board with Pico LCD 1.3 inch Hat by Waveshare.
 1. Install Circuit Python (7.x)  
 2. Copy source code to root directory of Raspberry Pi Pico  
 [src](src)   
-<img src="./sc_rootdir.png" width="320" />
+<img src="./readme/sc_rootdir.png" width="320" />
 
 ```
 If you would install CircuitPython ver 6.x under, you need to replace all mpy file in "lib" directory with adafruit bundle.
@@ -46,13 +46,13 @@ Print the case with 3D Printer.
 ## Testing
 1. Connect Pico Macro Key Hat to PC with USB cable.
 2. You can see the display waking up with "Welcome"
-<img src="./sc_welcome.jpg" width="240" />
+<img src="./readme/sc_welcome.jpg" width="240" />
 3. Lock Screen (Default pin: A > B > X > Y > Joystick Center Push)
-<img src="./sc_lock.jpg" width="240" />
+<img src="./readme/sc_lock.jpg" width="240" />
 4. Unlock message is shown.
-<img src="./sc_unlock.jpg" width="240" />
+<img src="./readme/sc_unlock.jpg" width="240" />
 5. Macro Pattaern is shown on display. You can change the set wich Joystick. Push button to send Macro to PC. 
-<img src="./sc_macromain.jpg" width="240" />
+<img src="./readme/sc_macromain.jpg" width="240" />
 
 ## Configuration
 Plese edit "config.py" in Raspberry Pi Pico root directory.
