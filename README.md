@@ -10,8 +10,8 @@ Macro key board with Pico LCD 1.3 inch Hat by Waveshare.
 
 <img src="./readme/sc_welcome.jpg" width="320" />
 
-# Implemantation
-## Prepare
+# Assemble
+## Components
 * Rasberry pi pico
 * Pico LCD 1.3 inch
   manual: https://www.waveshare.com/wiki/Pico-LCD-1.3
